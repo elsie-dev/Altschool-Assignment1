@@ -2,4 +2,5 @@
 
 ### This repo contains all my assignments for the semester .
 
-For assignment one by Valentine Madu on Linux permisisons: Branch Assignment
+- For assignment one by Valentine Madu on Linux permisisons:
+Checkout Branch Assignment
