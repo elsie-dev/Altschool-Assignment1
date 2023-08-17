@@ -34,15 +34,19 @@ or ```groups username```
 
 5.  **Allowing altschool group to be able to run only cat command on /etc/**
 
-Using ``` ``` which gives access  to see the various groups listed permission from the text editor
+Using ```sudo visudo ``` which gives access  to see the various groups listed permission from the text editor
 
 Next l edited the text editor file, to only allow altschool group to use cat command
-``` ``` 
+```
+%yourgroup   ALL=(ALL:ALL) ALL
+``` 
+
+replaces as ```%altschool ALL=(root)  /bin/cat /etc/*```
 ![](Screenshots/5b.nanofile.png)
 
 6. **Creating a new user who doesn't have a a home directory**
 
- **-M**is used to create a user without a home directory.
+    **- M**is used to create a user without a home directory.
 
  I create a new user, adds the password for the user and verifies whether the user has a home directory or not 
 
