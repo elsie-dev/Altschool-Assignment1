@@ -1,5 +1,5 @@
 
-## Assignment - for Linux Assignment 1
+## Assignment -  Linux Assignment 1
 
 ## To Do: 
 - create a user 
