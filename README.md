@@ -12,3 +12,6 @@
 ### Tasks Done with steps:
  Refer to [documentation.md](/Cloud-SEM/blob/assignment/docs.md) file
  
+## Assignment - Linux Operators
+## To Do:
+ With explanations, write out 15 file operators and push it to Github
